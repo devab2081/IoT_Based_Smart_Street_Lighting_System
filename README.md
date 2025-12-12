@@ -121,6 +121,3 @@ Created as part of **Smart Street Lighting System** project work
 and demonstrated during **Smart Hack 2025 (TamilNadu)**.
 
 
-
-
-![alt text](circuit.jpg "")
